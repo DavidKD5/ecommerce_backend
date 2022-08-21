@@ -1,12 +1,10 @@
 # E-commerce Object Relational Mapping
   
   ## Description
+  
+https://user-images.githubusercontent.com/94725701/185777389-efbaff98-1d42-414a-b760-74b8d35a0713.mp4
 
   This is the creation of a database using expressJS back end. The models and the routes for the database are configured using sequelize. There is no front end. The end points can be tested using API testing software. 
-
-  ![](assets/images/img1.png)
-  ![](assets/images/img2.png)
-  ![](assets/images/img3.png)
 
   ## Table of Contents
 
